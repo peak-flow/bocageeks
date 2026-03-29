@@ -1,0 +1,7 @@
+{
+    "name": "bocageeks",
+    "private": true,
+    "scripts": {
+        "build": "echo 'No build step'"
+    }
+}
