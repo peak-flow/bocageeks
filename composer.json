@@ -1,0 +1,11 @@
+{
+    "name": "peak-flow/bocageeks",
+    "description": "BocaGeeks site",
+    "type": "project",
+    "require": {
+        "php": "^8.1"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
